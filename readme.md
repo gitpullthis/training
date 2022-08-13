@@ -1,0 +1,26 @@
+```
+<html>
+    <head>
+        <title>Example form</title>
+        <link rel="stylesheet" href="xyzstyle.css">
+    </head>
+    <body>
+        <form id="registration-form" method="post" action="https://submit-form.com/2jS11DOK">
+            <label>Your Name:</label>
+            <input name="yourn" type="text" placeholder="Type your name"/>
+            <label>Age:</label>
+            <input name="age" type="number" placeholder="e.g. 32" />
+            <label>DOB:</label>
+            <input name="dob" type="date" placeholder="DD-MM-YYYY" >
+            <label>Email:</label>
+            <input type="email" placeholder="example@email.com">
+            <label>Your message:</label>
+            <textarea rows="6" placeholder="Message should not be greater than 256 characters"></textarea>
+            <br/>
+            <input type="submit" value="Send" />
+            <input type="reset" value="Clear" />
+        </form>
+    
+    </body>
+</html>
+```
