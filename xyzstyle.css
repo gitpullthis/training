@@ -1,0 +1,17 @@
+#registration-form {
+    color: rgba(0, 0, 0, 0.155);
+}
+
+label {
+    display:block;
+    clear: right;
+    font-weight: bold;
+}
+
+textarea {
+    width: 90%;
+}
+
+input {
+    font-family: 'Times New Roman', Times, serif;
+}
